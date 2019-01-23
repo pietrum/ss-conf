@@ -1,0 +1,14 @@
+{
+  "name": "Advance Example",
+  "env": "Common - it will be overridden by environment configuration.",
+  "module1": {
+    "test": "Test configuration for Module 1"
+  },
+  "module2": {
+    "test": "Test configuration for Module 2"
+  },
+  "module3": {
+    "test": "Test configuration for Module 3",
+    "extra": true
+  }
+}

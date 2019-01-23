@@ -1,0 +1,13 @@
+{
+  "merge": {
+    "name": "merge"
+  },
+  "env": {
+    "name": "env"
+  },
+  "nested": {
+    "test": {
+      "name": "nested.test"
+    }
+  }
+}

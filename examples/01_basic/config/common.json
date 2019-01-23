@@ -1,0 +1,4 @@
+{
+  "name": "Basic Example",
+  "env": "Common - it will be overridden by environment configuration."
+}
