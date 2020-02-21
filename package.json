@@ -1,6 +1,6 @@
 {
   "name": "ss-conf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Slim Service - Configuration",
   "main": "conf.js",
   "scripts": {
