@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const lodashDefaultsDeep = require('lodash/defaultsDeep');
+const lodashDefaultsDeep = require('lodash.defaultsdeep');
 
 function loadFile(self, filepath) {
   let file;
